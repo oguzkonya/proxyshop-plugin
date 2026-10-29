@@ -15,3 +15,7 @@ The current version of Proxyshop doesn't have the Star Trek set symbol. I made o
 |--------------------|-----------------------|------------------------------------------------|
 | LCARS              | Normal                | Star Trek LCARS style                          |
 | LCARS Land         | Normal                | Star Trek LCARS style for dual lands.          |
+
+
+![LCARS](https://raw.githubusercontent.com/oguzkonya/proxyshop-plugin/refs/heads/master/img/LcarsTemplate.jpg "LCARS")
+![LCARS Land](https://raw.githubusercontent.com/oguzkonya/proxyshop-plugin/refs/heads/master/img/LcarsLandTemplate.jpg "LCARS Land")
