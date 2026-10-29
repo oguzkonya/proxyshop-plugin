@@ -1,0 +1,35 @@
+###
+# * Plugin Details
+###
+
+PLUGIN:
+  name: "KarbonatErol"
+  author: "KarbonatErol"
+  desc: "A plugin for KarbonatErol's templates."
+  license: "MPL-2.0"
+  requires: "^1.13.0"
+  version: "1.0.0"
+
+###
+# * Normal Templates
+###
+
+lcars.psd:
+  name: "LCARS"
+  desc: "A Star Trek themed frame based on the LCARS computer interface."
+  templates:
+    LCARS:
+      LcarsTemplate:
+        - normal
+
+###
+# * Land Templates
+###
+
+lcars-land.psd:
+  name: "LCARS Land"
+  desc: "LCARS frame for dual lands."
+  templates:
+    LCARS Land:
+      LcarsLandTemplate:
+        - normal
